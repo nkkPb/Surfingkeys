@@ -83,5 +83,5 @@
         "pages/shadow.css",
         "pages/default.css"
     ],
-    "content_security_policy": "script-src 'self' 'self'"
+    "content_security_policy": "script-src 'self'; object-src 'self'"
 }
